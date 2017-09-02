@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    // ... other options omitted
+    // other options omitted
     "allowSyntheticDefaultImports": true,
     "lib": [
       "dom",
